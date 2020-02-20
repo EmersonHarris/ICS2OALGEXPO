@@ -2,6 +2,6 @@
 exploring cubing
 
 <head>
-<h1>
+<h2>
 Exploring Cubing
   <head>
