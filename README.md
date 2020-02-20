@@ -3,5 +3,5 @@ exploring cubing
 
 <head>
 <h1>
-***Exploring Cubing***
+Exploring Cubing
   <head>
