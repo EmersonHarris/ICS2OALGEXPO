@@ -8,5 +8,5 @@ Exploring cubing
   <head>
 
 <body>
- #I have just set un this file and I have been unsuccsessfull at learning how to use the pyraminx so far
+ I have just set un this file and I have been unsuccsessfull at learning how to use the pyraminx so far
   <body>
