@@ -10,3 +10,7 @@ Exploring cubing
 ## 02/19/2020
 
 ##### I have not made any progress in learning the algorithms of the pyraminx, though I have watched some tutorials it may be because I haven't had the sound on
+
+## 02/20/2020
+
+##### I still am un able to solve the pyraminx I am considering using the pyraminx duo
