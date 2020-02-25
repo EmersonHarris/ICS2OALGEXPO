@@ -19,6 +19,6 @@ Exploring cubing
 
 ##### gw iuqvy
 
-## 02/24/2020
+## 02/25/2020
 
-##### huvtu
+##### I have started to time my self with the pyraminx duo and I am still try to learn the pyraminx's algorithms
