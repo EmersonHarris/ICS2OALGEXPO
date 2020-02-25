@@ -23,3 +23,6 @@ Exploring cubing
 
 ##### I have started to time my self with the pyraminx duo and I am still try to learn the pyraminx's algorithms
 #### Pyraminx Duo Times:
+* ao5: 7.49sec
+* ao12: 7.43sec
+* ao25: 8.66sec
