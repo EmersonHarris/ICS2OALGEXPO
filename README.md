@@ -14,3 +14,11 @@ Exploring cubing
 ## 02/20/2020
 
 ##### I still am un able to solve the pyraminx I am considering using the pyraminx duo
+
+## 02/24/2020
+
+##### gw iuqvy
+
+## 02/24/2020
+
+##### huvtu
