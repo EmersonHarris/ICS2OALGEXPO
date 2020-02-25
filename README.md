@@ -22,3 +22,4 @@ Exploring cubing
 ## 02/25/2020
 
 ##### I have started to time my self with the pyraminx duo and I am still try to learn the pyraminx's algorithms
+#### Pyraminx Duo Times:
