@@ -17,7 +17,7 @@ Exploring cubing
 
 ## 02/24/2020
 
-##### gw iuqvy
+##### Today was a fairly unpreductive day, I have still not learned how to solve the pyraminx's algorithms
 
 ## 02/25/2020
 
