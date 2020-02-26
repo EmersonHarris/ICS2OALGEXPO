@@ -26,3 +26,7 @@ Exploring cubing
 * ao5: 7.49sec
 * ao12: 7.43sec
 * ao25: 8.66sec
+
+## 02/26/2020
+
+##### I have been watching algorithm videos all class and I am still unable to solve it
