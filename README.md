@@ -40,4 +40,4 @@ Exploring cubing
 * ao12: 7.09sec
 * ao25: 7.52sec
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPyraminx_Duo&psig=AOvVaw26vqNNR0bSdMJBeL-lhllY&ust=1583029812360000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCogOLb9ecCFQAAAAAdAAAAABAD)
+![image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Pyraminx_Duo.jpg)
