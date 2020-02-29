@@ -30,3 +30,14 @@ Exploring cubing
 ## 02/26/2020
 
 ##### I have been watching algorithm videos all class and I am still unable to solve it
+
+## 02/28/2020
+
+##### I have not leanred the algorithms of the pyramix, I still need to learn them the videos helped but I still don't understand the algorithms, I can get close to solving the pyraminx but not solve because I can't solve the pyraminx, I will use the pyraminx duo for more data
+
+#### Pyraminx Duo Times 2
+* ao5: 7.34sec
+* ao12: 7.09sec
+* ao25: 7.52sec
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPyraminx_Duo&psig=AOvVaw26vqNNR0bSdMJBeL-lhllY&ust=1583029812360000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCogOLb9ecCFQAAAAAdAAAAABAD)
